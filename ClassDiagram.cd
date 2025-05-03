@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PortLink__Final_Project_.AdminDashboard" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>4OUjczyVoaAis9xAV8e69CayULH/YQfDgBCC/W9LG0Q=</HashCode>
+      <FileName>AdminDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PortLink__Final_Project_.MainMenuPage">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgABAAACABCDQAAACABAACSoAABAAAKAASAAAAAAA=</HashCode>
+      <FileName>HomePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PortLink__Final_Project_.Login">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAABIAACBEEhAAQwCgAAgCQAAAQAADIAAAAwBAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PortLink__Final_Project_.Register">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgIlAAASAEATQIEQCARAgCQIAAEAACIAACAQBEIAg=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PortLink__Final_Project_.UserDashboard" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>qW1nexzomKFoutVRx+ev/mLy1vC/Qp9DmTGq/X9/W+8=</HashCode>
+      <FileName>UserDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PortLink__Final_Project_.UserMaterialCards">
+    <Position X="0.75" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAABEAEAAAAAABAAAAgA=</HashCode>
+      <FileName>UserMaterialCards.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PortLink__Final_Project_.AdminMaterialCards">
+    <Position X="9.75" Y="1.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAAAAABgAAAAAAAAAAAAAAAQAAEAQAAAAAgBAAAAgA=</HashCode>
+      <FileName>AdminMaterialCards.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PortLink__Final_Project_.AdminButtonHandler">
+    <Position X="9.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAgAgAAAAAAAAAAAAEAAAAg=</HashCode>
+      <FileName>AdminButtonHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PortLink__Final_Project_.UserButtonHandler">
+    <Position X="0.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserButtonHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PortLink__Final_Project_.ImagePic" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImagePic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
